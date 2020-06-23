@@ -1,0 +1,20 @@
+{
+    // Clean up the IDE
+    "files.exclude": {
+        "node_modules/": true,
+        ".gitignore": true,
+        // "src/App.css": true,
+        "src/logo.svg": true,
+        "src/serviceWorker.js": true,
+        "src/index.css": true,
+        "src/App.test.js": true,
+        "package.json": true,
+        "package-lock.json": true,
+        "README.md": true,
+        "public/favicon.ico": true,
+        "public/logo192.png": true,
+        "public/logo512.png": true,
+        "public/manifest.json": true,
+        "public/robots.txt": true,
+    }
+}
